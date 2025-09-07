@@ -1,0 +1,36 @@
+# Сборки и бинарные файлы
+bin/
+obj/
+
+# Файлы настроек IDE
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.sln.iml
+
+# Файлы пакетов NuGet
+packages/
+
+# Файлы запуска
+*.launchsettings.json
+
+# Локальные БД
+app.db
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Файлы публикации
+publish/
